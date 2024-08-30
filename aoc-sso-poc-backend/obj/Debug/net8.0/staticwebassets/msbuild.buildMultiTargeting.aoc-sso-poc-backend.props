@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\aoc-sso-poc-backend.props" />
+</Project>

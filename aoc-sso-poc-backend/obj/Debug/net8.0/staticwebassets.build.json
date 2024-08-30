@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "dtK0DG0d2xdcG+h+Io3ajKoB2GFrQvetK5M65c0CXyw=",
+  "Source": "aoc-sso-poc-backend",
+  "BasePath": "_content/aoc-sso-poc-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
